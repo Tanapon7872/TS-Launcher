@@ -24,8 +24,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "ใส่ชื่อผู้ใช้_GitHub_ของคุณตรงนี้",
-        "repo": "ใส่ชื่อ_Repository_ของคุณตรงนี้"
+        "owner": "Tanapon7872",
+        "repo": "TS-Launcher"
       }
     ]
   },
